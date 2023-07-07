@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_theme_zen=self.webpackChunkdocusaurus_theme_zen||[]).push([[184],{4272:function(e){e.exports=JSON.parse('[{"label":"docusaurus-theme-zen","permalink":"/en/tags/docusaurus-theme-zen","count":1},{"label":"lifestyle","permalink":"/en/tags/lifestyle","count":1}]')}}]);
